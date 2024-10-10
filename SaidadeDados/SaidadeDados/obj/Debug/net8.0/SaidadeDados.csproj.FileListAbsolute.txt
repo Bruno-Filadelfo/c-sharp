@@ -1,0 +1,14 @@
+C:\Users\Bruno\Documents\projetos\SaidadeDados\SaidadeDados\bin\Debug\net8.0\SaidadeDados.exe
+C:\Users\Bruno\Documents\projetos\SaidadeDados\SaidadeDados\bin\Debug\net8.0\SaidadeDados.deps.json
+C:\Users\Bruno\Documents\projetos\SaidadeDados\SaidadeDados\bin\Debug\net8.0\SaidadeDados.runtimeconfig.json
+C:\Users\Bruno\Documents\projetos\SaidadeDados\SaidadeDados\bin\Debug\net8.0\SaidadeDados.dll
+C:\Users\Bruno\Documents\projetos\SaidadeDados\SaidadeDados\bin\Debug\net8.0\SaidadeDados.pdb
+C:\Users\Bruno\Documents\projetos\SaidadeDados\SaidadeDados\obj\Debug\net8.0\SaidadeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\Documents\projetos\SaidadeDados\SaidadeDados\obj\Debug\net8.0\SaidadeDados.AssemblyInfoInputs.cache
+C:\Users\Bruno\Documents\projetos\SaidadeDados\SaidadeDados\obj\Debug\net8.0\SaidadeDados.AssemblyInfo.cs
+C:\Users\Bruno\Documents\projetos\SaidadeDados\SaidadeDados\obj\Debug\net8.0\SaidadeDados.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Documents\projetos\SaidadeDados\SaidadeDados\obj\Debug\net8.0\SaidadeDados.dll
+C:\Users\Bruno\Documents\projetos\SaidadeDados\SaidadeDados\obj\Debug\net8.0\refint\SaidadeDados.dll
+C:\Users\Bruno\Documents\projetos\SaidadeDados\SaidadeDados\obj\Debug\net8.0\SaidadeDados.pdb
+C:\Users\Bruno\Documents\projetos\SaidadeDados\SaidadeDados\obj\Debug\net8.0\SaidadeDados.genruntimeconfig.cache
+C:\Users\Bruno\Documents\projetos\SaidadeDados\SaidadeDados\obj\Debug\net8.0\ref\SaidadeDados.dll

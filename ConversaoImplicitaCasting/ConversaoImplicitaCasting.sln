@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversaoImplicitaCasting", "ConversaoImplicitaCasting\ConversaoImplicitaCasting.csproj", "{EFFCD450-2315-401C-8E63-03761263D527}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFFCD450-2315-401C-8E63-03761263D527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFFCD450-2315-401C-8E63-03761263D527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFFCD450-2315-401C-8E63-03761263D527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFFCD450-2315-401C-8E63-03761263D527}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A1AFC02-8591-4DFB-8A73-5C5E1F39DA75}
+	EndGlobalSection
+EndGlobal
