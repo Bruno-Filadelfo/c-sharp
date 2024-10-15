@@ -1,0 +1,14 @@
+C:\Users\Bruno\source\repos\OperadoresAritméticos\OperadoresAritméticos\bin\Debug\net8.0\OperadoresAritméticos.exe
+C:\Users\Bruno\source\repos\OperadoresAritméticos\OperadoresAritméticos\bin\Debug\net8.0\OperadoresAritméticos.deps.json
+C:\Users\Bruno\source\repos\OperadoresAritméticos\OperadoresAritméticos\bin\Debug\net8.0\OperadoresAritméticos.runtimeconfig.json
+C:\Users\Bruno\source\repos\OperadoresAritméticos\OperadoresAritméticos\bin\Debug\net8.0\OperadoresAritméticos.dll
+C:\Users\Bruno\source\repos\OperadoresAritméticos\OperadoresAritméticos\bin\Debug\net8.0\OperadoresAritméticos.pdb
+C:\Users\Bruno\source\repos\OperadoresAritméticos\OperadoresAritméticos\obj\Debug\net8.0\OperadoresAritméticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\source\repos\OperadoresAritméticos\OperadoresAritméticos\obj\Debug\net8.0\OperadoresAritméticos.AssemblyInfoInputs.cache
+C:\Users\Bruno\source\repos\OperadoresAritméticos\OperadoresAritméticos\obj\Debug\net8.0\OperadoresAritméticos.AssemblyInfo.cs
+C:\Users\Bruno\source\repos\OperadoresAritméticos\OperadoresAritméticos\obj\Debug\net8.0\OperadoresAritméticos.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\OperadoresAritméticos\OperadoresAritméticos\obj\Debug\net8.0\OperadoresAritméticos.dll
+C:\Users\Bruno\source\repos\OperadoresAritméticos\OperadoresAritméticos\obj\Debug\net8.0\refint\OperadoresAritméticos.dll
+C:\Users\Bruno\source\repos\OperadoresAritméticos\OperadoresAritméticos\obj\Debug\net8.0\OperadoresAritméticos.pdb
+C:\Users\Bruno\source\repos\OperadoresAritméticos\OperadoresAritméticos\obj\Debug\net8.0\OperadoresAritméticos.genruntimeconfig.cache
+C:\Users\Bruno\source\repos\OperadoresAritméticos\OperadoresAritméticos\obj\Debug\net8.0\ref\OperadoresAritméticos.dll
