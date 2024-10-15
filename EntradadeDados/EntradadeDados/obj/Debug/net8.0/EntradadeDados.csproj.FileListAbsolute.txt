@@ -1,0 +1,15 @@
+C:\Users\Bruno\Documents\projetos\EntradadeDados\EntradadeDados\bin\Debug\net8.0\EntradadeDados.exe
+C:\Users\Bruno\Documents\projetos\EntradadeDados\EntradadeDados\bin\Debug\net8.0\EntradadeDados.deps.json
+C:\Users\Bruno\Documents\projetos\EntradadeDados\EntradadeDados\bin\Debug\net8.0\EntradadeDados.runtimeconfig.json
+C:\Users\Bruno\Documents\projetos\EntradadeDados\EntradadeDados\bin\Debug\net8.0\EntradadeDados.dll
+C:\Users\Bruno\Documents\projetos\EntradadeDados\EntradadeDados\bin\Debug\net8.0\EntradadeDados.pdb
+C:\Users\Bruno\Documents\projetos\EntradadeDados\EntradadeDados\obj\Debug\net8.0\EntradadeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\Documents\projetos\EntradadeDados\EntradadeDados\obj\Debug\net8.0\EntradadeDados.AssemblyInfoInputs.cache
+C:\Users\Bruno\Documents\projetos\EntradadeDados\EntradadeDados\obj\Debug\net8.0\EntradadeDados.AssemblyInfo.cs
+C:\Users\Bruno\Documents\projetos\EntradadeDados\EntradadeDados\obj\Debug\net8.0\EntradadeDados.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Documents\projetos\EntradadeDados\EntradadeDados\obj\Debug\net8.0\EntradadeDados.sourcelink.json
+C:\Users\Bruno\Documents\projetos\EntradadeDados\EntradadeDados\obj\Debug\net8.0\EntradadeDados.dll
+C:\Users\Bruno\Documents\projetos\EntradadeDados\EntradadeDados\obj\Debug\net8.0\refint\EntradadeDados.dll
+C:\Users\Bruno\Documents\projetos\EntradadeDados\EntradadeDados\obj\Debug\net8.0\EntradadeDados.pdb
+C:\Users\Bruno\Documents\projetos\EntradadeDados\EntradadeDados\obj\Debug\net8.0\EntradadeDados.genruntimeconfig.cache
+C:\Users\Bruno\Documents\projetos\EntradadeDados\EntradadeDados\obj\Debug\net8.0\ref\EntradadeDados.dll
