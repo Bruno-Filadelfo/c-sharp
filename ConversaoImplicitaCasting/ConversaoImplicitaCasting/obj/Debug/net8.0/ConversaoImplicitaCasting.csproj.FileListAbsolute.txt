@@ -12,3 +12,4 @@ C:\Users\Bruno\Documents\projetos\ConversaoImplicitaCasting\ConversaoImplicitaCa
 C:\Users\Bruno\Documents\projetos\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\net8.0\ConversaoImplicitaCasting.pdb
 C:\Users\Bruno\Documents\projetos\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\net8.0\ConversaoImplicitaCasting.genruntimeconfig.cache
 C:\Users\Bruno\Documents\projetos\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\net8.0\ref\ConversaoImplicitaCasting.dll
+C:\Users\Bruno\Documents\projetos\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\net8.0\ConversaoImplicitaCasting.sourcelink.json

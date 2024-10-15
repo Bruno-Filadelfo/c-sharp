@@ -1,0 +1,14 @@
+C:\Users\Bruno\Documents\projetos\OperadoresdeAtribuição\OperadoresdeAtribuição\bin\Debug\net8.0\OperadoresdeAtribuição.exe
+C:\Users\Bruno\Documents\projetos\OperadoresdeAtribuição\OperadoresdeAtribuição\bin\Debug\net8.0\OperadoresdeAtribuição.deps.json
+C:\Users\Bruno\Documents\projetos\OperadoresdeAtribuição\OperadoresdeAtribuição\bin\Debug\net8.0\OperadoresdeAtribuição.runtimeconfig.json
+C:\Users\Bruno\Documents\projetos\OperadoresdeAtribuição\OperadoresdeAtribuição\bin\Debug\net8.0\OperadoresdeAtribuição.dll
+C:\Users\Bruno\Documents\projetos\OperadoresdeAtribuição\OperadoresdeAtribuição\bin\Debug\net8.0\OperadoresdeAtribuição.pdb
+C:\Users\Bruno\Documents\projetos\OperadoresdeAtribuição\OperadoresdeAtribuição\obj\Debug\net8.0\OperadoresdeAtribuição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\Documents\projetos\OperadoresdeAtribuição\OperadoresdeAtribuição\obj\Debug\net8.0\OperadoresdeAtribuição.AssemblyInfoInputs.cache
+C:\Users\Bruno\Documents\projetos\OperadoresdeAtribuição\OperadoresdeAtribuição\obj\Debug\net8.0\OperadoresdeAtribuição.AssemblyInfo.cs
+C:\Users\Bruno\Documents\projetos\OperadoresdeAtribuição\OperadoresdeAtribuição\obj\Debug\net8.0\OperadoresdeAtribuição.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Documents\projetos\OperadoresdeAtribuição\OperadoresdeAtribuição\obj\Debug\net8.0\OperadoresdeAtribuição.dll
+C:\Users\Bruno\Documents\projetos\OperadoresdeAtribuição\OperadoresdeAtribuição\obj\Debug\net8.0\refint\OperadoresdeAtribuição.dll
+C:\Users\Bruno\Documents\projetos\OperadoresdeAtribuição\OperadoresdeAtribuição\obj\Debug\net8.0\OperadoresdeAtribuição.pdb
+C:\Users\Bruno\Documents\projetos\OperadoresdeAtribuição\OperadoresdeAtribuição\obj\Debug\net8.0\OperadoresdeAtribuição.genruntimeconfig.cache
+C:\Users\Bruno\Documents\projetos\OperadoresdeAtribuição\OperadoresdeAtribuição\obj\Debug\net8.0\ref\OperadoresdeAtribuição.dll

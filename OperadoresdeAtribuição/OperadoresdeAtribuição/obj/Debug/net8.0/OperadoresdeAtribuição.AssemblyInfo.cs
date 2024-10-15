@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ConversaoImplicitaCasting")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("OperadoresdeAtribuição")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+754fd8212a3e75c2c275aec87cacb5199eabd4f4")]
-[assembly: System.Reflection.AssemblyProductAttribute("ConversaoImplicitaCasting")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ConversaoImplicitaCasting")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyProductAttribute("OperadoresdeAtribuição")]
+[assembly: System.Reflection.AssemblyTitleAttribute("OperadoresdeAtribuição")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

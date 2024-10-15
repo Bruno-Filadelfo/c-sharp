@@ -14,4 +14,5 @@ Console.WriteLine(n1);
 Console.WriteLine(n2);
 Console.WriteLine(n3);
 Console.WriteLine(n4);
+ls 
 
