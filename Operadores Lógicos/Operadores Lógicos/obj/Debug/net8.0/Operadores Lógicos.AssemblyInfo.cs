@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Operadores Lógicos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3887b597bc1676df194bb881361e69c4b95cbe17")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+034db7902bbea6220317297b1bef4cbe983af00c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Operadores Lógicos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Operadores Lógicos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
