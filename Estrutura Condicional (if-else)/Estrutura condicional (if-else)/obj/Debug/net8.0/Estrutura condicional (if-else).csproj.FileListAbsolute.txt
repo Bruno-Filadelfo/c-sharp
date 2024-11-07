@@ -1,0 +1,15 @@
+C:\Users\Bruno\Documents\projetos\Estrutura condicional (if-else)\Estrutura condicional (if-else)\bin\Debug\net8.0\Estrutura condicional (if-else).exe
+C:\Users\Bruno\Documents\projetos\Estrutura condicional (if-else)\Estrutura condicional (if-else)\bin\Debug\net8.0\Estrutura condicional (if-else).deps.json
+C:\Users\Bruno\Documents\projetos\Estrutura condicional (if-else)\Estrutura condicional (if-else)\bin\Debug\net8.0\Estrutura condicional (if-else).runtimeconfig.json
+C:\Users\Bruno\Documents\projetos\Estrutura condicional (if-else)\Estrutura condicional (if-else)\bin\Debug\net8.0\Estrutura condicional (if-else).dll
+C:\Users\Bruno\Documents\projetos\Estrutura condicional (if-else)\Estrutura condicional (if-else)\bin\Debug\net8.0\Estrutura condicional (if-else).pdb
+C:\Users\Bruno\Documents\projetos\Estrutura condicional (if-else)\Estrutura condicional (if-else)\obj\Debug\net8.0\Estrutura condicional (if-else).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\Documents\projetos\Estrutura condicional (if-else)\Estrutura condicional (if-else)\obj\Debug\net8.0\Estrutura condicional (if-else).AssemblyInfoInputs.cache
+C:\Users\Bruno\Documents\projetos\Estrutura condicional (if-else)\Estrutura condicional (if-else)\obj\Debug\net8.0\Estrutura condicional (if-else).AssemblyInfo.cs
+C:\Users\Bruno\Documents\projetos\Estrutura condicional (if-else)\Estrutura condicional (if-else)\obj\Debug\net8.0\Estrutura condicional (if-else).csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Documents\projetos\Estrutura condicional (if-else)\Estrutura condicional (if-else)\obj\Debug\net8.0\Estrutura condicional (if-else).sourcelink.json
+C:\Users\Bruno\Documents\projetos\Estrutura condicional (if-else)\Estrutura condicional (if-else)\obj\Debug\net8.0\Estrutura condicional (if-else).dll
+C:\Users\Bruno\Documents\projetos\Estrutura condicional (if-else)\Estrutura condicional (if-else)\obj\Debug\net8.0\refint\Estrutura condicional (if-else).dll
+C:\Users\Bruno\Documents\projetos\Estrutura condicional (if-else)\Estrutura condicional (if-else)\obj\Debug\net8.0\Estrutura condicional (if-else).pdb
+C:\Users\Bruno\Documents\projetos\Estrutura condicional (if-else)\Estrutura condicional (if-else)\obj\Debug\net8.0\Estrutura condicional (if-else).genruntimeconfig.cache
+C:\Users\Bruno\Documents\projetos\Estrutura condicional (if-else)\Estrutura condicional (if-else)\obj\Debug\net8.0\ref\Estrutura condicional (if-else).dll
