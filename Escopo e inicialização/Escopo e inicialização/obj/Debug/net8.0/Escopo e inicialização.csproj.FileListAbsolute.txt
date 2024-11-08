@@ -1,0 +1,15 @@
+C:\Users\Bruno\Documents\projetos\Escopo e inicialização\Escopo e inicialização\bin\Debug\net8.0\Escopo e inicialização.exe
+C:\Users\Bruno\Documents\projetos\Escopo e inicialização\Escopo e inicialização\bin\Debug\net8.0\Escopo e inicialização.deps.json
+C:\Users\Bruno\Documents\projetos\Escopo e inicialização\Escopo e inicialização\bin\Debug\net8.0\Escopo e inicialização.runtimeconfig.json
+C:\Users\Bruno\Documents\projetos\Escopo e inicialização\Escopo e inicialização\bin\Debug\net8.0\Escopo e inicialização.dll
+C:\Users\Bruno\Documents\projetos\Escopo e inicialização\Escopo e inicialização\bin\Debug\net8.0\Escopo e inicialização.pdb
+C:\Users\Bruno\Documents\projetos\Escopo e inicialização\Escopo e inicialização\obj\Debug\net8.0\Escopo e inicialização.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\Documents\projetos\Escopo e inicialização\Escopo e inicialização\obj\Debug\net8.0\Escopo e inicialização.AssemblyInfoInputs.cache
+C:\Users\Bruno\Documents\projetos\Escopo e inicialização\Escopo e inicialização\obj\Debug\net8.0\Escopo e inicialização.AssemblyInfo.cs
+C:\Users\Bruno\Documents\projetos\Escopo e inicialização\Escopo e inicialização\obj\Debug\net8.0\Escopo e inicialização.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Documents\projetos\Escopo e inicialização\Escopo e inicialização\obj\Debug\net8.0\Escopo e inicialização.sourcelink.json
+C:\Users\Bruno\Documents\projetos\Escopo e inicialização\Escopo e inicialização\obj\Debug\net8.0\Escopo e inicialização.dll
+C:\Users\Bruno\Documents\projetos\Escopo e inicialização\Escopo e inicialização\obj\Debug\net8.0\refint\Escopo e inicialização.dll
+C:\Users\Bruno\Documents\projetos\Escopo e inicialização\Escopo e inicialização\obj\Debug\net8.0\Escopo e inicialização.pdb
+C:\Users\Bruno\Documents\projetos\Escopo e inicialização\Escopo e inicialização\obj\Debug\net8.0\Escopo e inicialização.genruntimeconfig.cache
+C:\Users\Bruno\Documents\projetos\Escopo e inicialização\Escopo e inicialização\obj\Debug\net8.0\ref\Escopo e inicialização.dll
