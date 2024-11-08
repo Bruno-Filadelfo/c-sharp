@@ -1,0 +1,15 @@
+C:\Users\Bruno\Documents\projetos\FuncoesSintaxe\FuncoesSintaxe\bin\Debug\net8.0\FuncoesSintaxe.exe
+C:\Users\Bruno\Documents\projetos\FuncoesSintaxe\FuncoesSintaxe\bin\Debug\net8.0\FuncoesSintaxe.deps.json
+C:\Users\Bruno\Documents\projetos\FuncoesSintaxe\FuncoesSintaxe\bin\Debug\net8.0\FuncoesSintaxe.runtimeconfig.json
+C:\Users\Bruno\Documents\projetos\FuncoesSintaxe\FuncoesSintaxe\bin\Debug\net8.0\FuncoesSintaxe.dll
+C:\Users\Bruno\Documents\projetos\FuncoesSintaxe\FuncoesSintaxe\bin\Debug\net8.0\FuncoesSintaxe.pdb
+C:\Users\Bruno\Documents\projetos\FuncoesSintaxe\FuncoesSintaxe\obj\Debug\net8.0\FuncoesSintaxe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\Documents\projetos\FuncoesSintaxe\FuncoesSintaxe\obj\Debug\net8.0\FuncoesSintaxe.AssemblyInfoInputs.cache
+C:\Users\Bruno\Documents\projetos\FuncoesSintaxe\FuncoesSintaxe\obj\Debug\net8.0\FuncoesSintaxe.AssemblyInfo.cs
+C:\Users\Bruno\Documents\projetos\FuncoesSintaxe\FuncoesSintaxe\obj\Debug\net8.0\FuncoesSintaxe.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Documents\projetos\FuncoesSintaxe\FuncoesSintaxe\obj\Debug\net8.0\FuncoesSintaxe.sourcelink.json
+C:\Users\Bruno\Documents\projetos\FuncoesSintaxe\FuncoesSintaxe\obj\Debug\net8.0\FuncoesSintaxe.dll
+C:\Users\Bruno\Documents\projetos\FuncoesSintaxe\FuncoesSintaxe\obj\Debug\net8.0\refint\FuncoesSintaxe.dll
+C:\Users\Bruno\Documents\projetos\FuncoesSintaxe\FuncoesSintaxe\obj\Debug\net8.0\FuncoesSintaxe.pdb
+C:\Users\Bruno\Documents\projetos\FuncoesSintaxe\FuncoesSintaxe\obj\Debug\net8.0\FuncoesSintaxe.genruntimeconfig.cache
+C:\Users\Bruno\Documents\projetos\FuncoesSintaxe\FuncoesSintaxe\obj\Debug\net8.0\ref\FuncoesSintaxe.dll
