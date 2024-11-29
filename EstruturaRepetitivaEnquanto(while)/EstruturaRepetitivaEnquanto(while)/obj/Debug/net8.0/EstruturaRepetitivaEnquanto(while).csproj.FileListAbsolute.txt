@@ -1,0 +1,15 @@
+C:\Users\Bruno\Documents\projetos\EstruturaRepetitivaEnquanto(while)\EstruturaRepetitivaEnquanto(while)\bin\Debug\net8.0\EstruturaRepetitivaEnquanto(while).exe
+C:\Users\Bruno\Documents\projetos\EstruturaRepetitivaEnquanto(while)\EstruturaRepetitivaEnquanto(while)\bin\Debug\net8.0\EstruturaRepetitivaEnquanto(while).deps.json
+C:\Users\Bruno\Documents\projetos\EstruturaRepetitivaEnquanto(while)\EstruturaRepetitivaEnquanto(while)\bin\Debug\net8.0\EstruturaRepetitivaEnquanto(while).runtimeconfig.json
+C:\Users\Bruno\Documents\projetos\EstruturaRepetitivaEnquanto(while)\EstruturaRepetitivaEnquanto(while)\bin\Debug\net8.0\EstruturaRepetitivaEnquanto(while).dll
+C:\Users\Bruno\Documents\projetos\EstruturaRepetitivaEnquanto(while)\EstruturaRepetitivaEnquanto(while)\bin\Debug\net8.0\EstruturaRepetitivaEnquanto(while).pdb
+C:\Users\Bruno\Documents\projetos\EstruturaRepetitivaEnquanto(while)\EstruturaRepetitivaEnquanto(while)\obj\Debug\net8.0\EstruturaRepetitivaEnquanto(while).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\Documents\projetos\EstruturaRepetitivaEnquanto(while)\EstruturaRepetitivaEnquanto(while)\obj\Debug\net8.0\EstruturaRepetitivaEnquanto(while).AssemblyInfoInputs.cache
+C:\Users\Bruno\Documents\projetos\EstruturaRepetitivaEnquanto(while)\EstruturaRepetitivaEnquanto(while)\obj\Debug\net8.0\EstruturaRepetitivaEnquanto(while).AssemblyInfo.cs
+C:\Users\Bruno\Documents\projetos\EstruturaRepetitivaEnquanto(while)\EstruturaRepetitivaEnquanto(while)\obj\Debug\net8.0\EstruturaRepetitivaEnquanto(while).csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Documents\projetos\EstruturaRepetitivaEnquanto(while)\EstruturaRepetitivaEnquanto(while)\obj\Debug\net8.0\EstruturaRepetitivaEnquanto(while).sourcelink.json
+C:\Users\Bruno\Documents\projetos\EstruturaRepetitivaEnquanto(while)\EstruturaRepetitivaEnquanto(while)\obj\Debug\net8.0\EstruturaRepetitivaEnquanto(while).dll
+C:\Users\Bruno\Documents\projetos\EstruturaRepetitivaEnquanto(while)\EstruturaRepetitivaEnquanto(while)\obj\Debug\net8.0\refint\EstruturaRepetitivaEnquanto(while).dll
+C:\Users\Bruno\Documents\projetos\EstruturaRepetitivaEnquanto(while)\EstruturaRepetitivaEnquanto(while)\obj\Debug\net8.0\EstruturaRepetitivaEnquanto(while).pdb
+C:\Users\Bruno\Documents\projetos\EstruturaRepetitivaEnquanto(while)\EstruturaRepetitivaEnquanto(while)\obj\Debug\net8.0\EstruturaRepetitivaEnquanto(while).genruntimeconfig.cache
+C:\Users\Bruno\Documents\projetos\EstruturaRepetitivaEnquanto(while)\EstruturaRepetitivaEnquanto(while)\obj\Debug\net8.0\ref\EstruturaRepetitivaEnquanto(while).dll
