@@ -6,3 +6,9 @@ Console.WriteLine(b);
 
 bool c = !(2 > 5) && 4 != 5;
 Console.WriteLine(c);
+
+bool d = a || b && c;
+Console.WriteLine(c);
+Console.WriteLine(d);
+
+
